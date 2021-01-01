@@ -1,0 +1,3 @@
+"C:\Users\gulya\AppData\Local\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ELTE_3_Programozasi_nyelvek_C_.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ELTE_3_Programozasi_nyelvek_C_.dir/objects.a @CMakeFiles\ELTE_3_Programozasi_nyelvek_C_.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ELTE_3_Programozasi_nyelvek_C_.dir/objects.a -Wl,--no-whole-archive  -o ELTE_3_Programozasi_nyelvek_C_.exe -Wl,--out-implib,libELTE_3_Programozasi_nyelvek_C_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ELTE_3_Programozasi_nyelvek_C_.dir\linklibs.rsp

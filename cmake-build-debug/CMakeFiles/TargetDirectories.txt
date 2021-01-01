@@ -1,0 +1,3 @@
+C:/Users/gulya/OneDrive/Dokumentumok/ELTE-3-Programozasi-nyelvek-C-/cmake-build-debug/CMakeFiles/ELTE_3_Programozasi_nyelvek_C_.dir
+C:/Users/gulya/OneDrive/Dokumentumok/ELTE-3-Programozasi-nyelvek-C-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gulya/OneDrive/Dokumentumok/ELTE-3-Programozasi-nyelvek-C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
