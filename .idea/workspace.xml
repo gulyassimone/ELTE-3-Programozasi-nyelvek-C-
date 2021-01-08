@@ -44,22 +44,23 @@
     <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Programozasi-nyelvek-C-\assignment" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Programozasi-nyelvek-C-\v" />
       <recent name="C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Programozasi-nyelvek-C-\assignment" />
       <recent name="C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Programozasi-nyelvek-C-" />
       <recent name="C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Programozasi-nyelvek-C-\1_ora" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Programozasi-nyelvek-C-\assignment" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="ELTE_3_Programozasi_nyelvek_C_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ELTE_3_Programozasi_nyelvek_C_" TARGET_NAME="ELTE_3_Programozasi_nyelvek_C_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ELTE_3_Programozasi_nyelvek_C_" RUN_TARGET_NAME="ELTE_3_Programozasi_nyelvek_C_">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ELTE_3_Programozasi_nyelvek_C_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ELTE_3_Programozasi_nyelvek_C_" TARGET_NAME="ELTE_3_Programozasi_nyelvek_C_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ELTE_3_Programozasi_nyelvek_C_" RUN_TARGET_NAME="ELTE_3_Programozasi_nyelvek_C_">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -83,7 +84,8 @@
       <workItem from="1609672840959" duration="2084000" />
       <workItem from="1609695201219" duration="14671000" />
       <workItem from="1609847879953" duration="5531000" />
-      <workItem from="1609920426735" duration="12890000" />
+      <workItem from="1609920426735" duration="13489000" />
+      <workItem from="1609940891968" duration="7002000" />
     </task>
     <servers />
   </component>
@@ -91,10 +93,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609921039246">
+    <state x="417" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609941184243">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="417" y="505" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.6.1920.1040@0.0.2560.1400" timestamp="1609921039246" />
+    <state x="417" y="505" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.6.1920.1040@0.0.2560.1400" timestamp="1609941184243" />
     <state x="1535" y="539" key="FileChooserDialogImpl" timestamp="1609681681098">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
